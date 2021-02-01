@@ -2,7 +2,8 @@
 https://joshhallrva.github.io/Spirited-Scenery/
 ## Team
 Josh Hall
-Trevor
+<br>
+Trevor McPherson
 Justin Williams
 
 ## User Story
