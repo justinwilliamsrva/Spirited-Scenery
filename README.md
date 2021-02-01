@@ -1,5 +1,9 @@
 # Spirited Scenery
 https://joshhallrva.github.io/Spirited-Scenery/
+## Team
+Josh Hall
+Trevor
+Justin Williams
 
 ## User Story
 
