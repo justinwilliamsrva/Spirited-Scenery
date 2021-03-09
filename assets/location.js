@@ -1,6 +1,4 @@
-/* Note: This example requires that you consent to location sharing when
- * prompted by your browser. If you see the error "Geolocation permission
- * denied.", it means you probably did not give permission for the browser * to locate you. */
+// 1.Create Global Variables
 let pos;
 let map;
 let bounds;
@@ -8,7 +6,7 @@ let infoWindow;
 let currentInfoWindow;
 let service;
 let infoPane;
-
+// 2. Runs first - Three Important items(a.Geolocation b. weather api c. Click events)
 function initMap() {
     // Initialize variables
     bounds = new google.maps.LatLngBounds();
@@ -157,7 +155,7 @@ function handleLocationError(browserHasGeolocation, infoWindow) {
     getNearbyPlaces(pos);
 }
 
-// Perform a Places Nearby Search Request
+// 3. Perform a Places Nearby Search Request
 function getNearbyPlaces(position) {
     let request = {
         location: position,
@@ -180,7 +178,7 @@ function getNearbyPlaces2(position) {
     service.nearbySearch(request, nearbyCallback2);
 }
 
-// Handle the results (up to 20) of the Nearby Search
+//4.  Handle the results  of the Nearby Search
 function nearbyCallback(results, status) {
     if (status == google.maps.places.PlacesServiceStatus.OK) {
         createMarkers(results);
@@ -193,7 +191,8 @@ function nearbyCallback2(results, status) {
     }
 }
 
-// Set markers at the location of each place result
+// 5. Set markers at the location of each place result
+// http://kml4earth.appspot.com/icons.html
 function createMarkers(places) {
     var iconBase = "https://maps.google.com/mapfiles/kml/shapes/";
     places.forEach((place) => {

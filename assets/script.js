@@ -1,12 +1,15 @@
 var image_track = "f";
 
+
+
+// Show Murals Click Event
 $(document).ready(function () {
 	$("#flip").click(function () {
 		$("#muralpc").slideDown("slow");
 		$("#flip").html("Click on image to see more!");
 	});
 });
-
+// Change Mural Image Function
 function change() {
 	var image = document.getElementById("muralpc");
 	if (image_track == "f") {
