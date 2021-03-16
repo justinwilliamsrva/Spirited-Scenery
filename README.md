@@ -2,7 +2,7 @@
   <a name="logo" href="https://justinwilliamsrva.github.io/Spirited-Scenery/"><img src="assets/icons/logobig.png" alt="Spirted Scenery" width="192"></a>
   <br>
   <br>
-  Spirited Scenery! - Have  pint and Look at Paint!
+  Spirited Scenery! - Have a pint and look at Paint!
 </h1>
 
 
