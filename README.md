@@ -37,20 +37,20 @@
   </h4>
 </div>
 
-## Overview
-
-### About
-
-<p>Explore your city's culture confidently with the Spirited Scenery App! If you're an art sophisticate, a critic, a bar crawler or all of the above; we've got you covered! Use our app to easily find local art pieces after lubricating yourself at nearby watering holes! Debate the intricacies and hidden meanings of the closest exhibit over a frothy cold beverage! In addition, the app considers your local weather conditions and offers advice on how to whether the user should venture on foot or wear a coat on their travels.</p>
+## Overview <a href="https://github.com/justinwilliamsrva/Spirited-Scenery#logo"><img align="right" border="0" src="https://raw.githubusercontent.com/CCOSTAN/Home-AssistantConfig/master/config/www/custom_ui/floorplan/images/branding/up_arrow.png" width="22" ></a>
 
 ### [Spirited Scenery Website](https://justinwilliamsrva.github.io/Spirited-Scenery)
 
 ### Client: University of Richmond Full Stack BootCamp Project
+### About
+<p>Explore your city's culture confidently with the Spirited Scenery App! If you're an art sophisticate, a critic, a bar crawler or all of the above; we've got you covered! Use our app to easily find local art pieces after lubricating yourself at nearby watering holes! Debate the intricacies and hidden meanings of the closest exhibit over a frothy cold beverage! In addition, the app considers your local weather conditions and offers advice on how to whether the user should venture on foot or wear a coat on their travels.</p>
+
+
 
 ---
 <br>
 
-## Technologies
+## Technologies <a href="https://github.com/justinwilliamsrva/Spirited-Scenery#logo"><img align="right" border="0" src="https://raw.githubusercontent.com/CCOSTAN/Home-AssistantConfig/master/config/www/custom_ui/floorplan/images/branding/up_arrow.png" width="22" ></a>
 ### Main Technologies
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![image](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
@@ -71,7 +71,7 @@
 
 
 
-## Team
+## Team <a href="https://github.com/justinwilliamsrva/Spirited-Scenery#logo"><img align="right" border="0" src="https://raw.githubusercontent.com/CCOSTAN/Home-AssistantConfig/master/config/www/custom_ui/floorplan/images/branding/up_arrow.png" width="22" ></a>
 
 <table align="center" border="1">
 
@@ -112,9 +112,9 @@
 
 </table>
 
+<br>
 
-
-## User Story
+## User Story <a href="https://github.com/justinwilliamsrva/Spirited-Scenery#logo"><img align="right" border="0" src="https://raw.githubusercontent.com/CCOSTAN/Home-AssistantConfig/master/config/www/custom_ui/floorplan/images/branding/up_arrow.png" width="22" ></a>
 
 ```
 AS A connoisseur of art and adult beverages
@@ -142,7 +142,7 @@ THEN The CSS is repsonsive
 ---
 <br>
 
-## Screenshots
+## Screenshots <a href="https://github.com/justinwilliamsrva/Spirited-Scenery#logo"><img align="right" border="0" src="https://raw.githubusercontent.com/CCOSTAN/Home-AssistantConfig/master/config/www/custom_ui/floorplan/images/branding/up_arrow.png" width="22" ></a>
 
 ![image](https://user-images.githubusercontent.com/63308516/87229085-4e44ab80-c373-11ea-8b3f-2c25cd71b60a.png)
 
