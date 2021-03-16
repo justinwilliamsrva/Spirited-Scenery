@@ -11,7 +11,7 @@
       Overview
     </a>
     <span> | </span>
-    <a href="https://github.com/CCOSTAN/Home-AssistantConfig#devices">
+    <a href="https://github.com/justinwilliamsrva/Spirited-Scenery#Technologies">
       Technologies
     </a>
     <span> | </span>
