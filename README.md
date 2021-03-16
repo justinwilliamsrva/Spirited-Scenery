@@ -1,6 +1,7 @@
 <h1 align="center">
   <a name="logo" href="https://justinwilliamsrva.github.io/Spirited-Scenery/"><img src="assets/icons/logobig.png" alt="Spirted Scenery" width="192"></a>
   <br>
+  <br>
   Spirited Scenery!
 </h1>
 <button>Try this</button>
