@@ -1,7 +1,7 @@
 <h1 align="center">
-  <a name="logo" href="https://justinwilliamsrva.github.io/Spirited-Scenery/"><img src="assets/icons/logobig.png" alt="Bear Stone Smart Home" width="192"></a>
+  <a name="logo" href="https://justinwilliamsrva.github.io/Spirited-Scenery/"><img src="assets/icons/logobig.png" alt="Spirted Scenery" width="192"></a>
   <br>
-  Bear Stone Smart Home Documentation
+  Spirited Scenery!
 </h1>
 
 
