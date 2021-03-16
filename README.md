@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="center" border-bottom="none">
   <a name="logo" href="https://justinwilliamsrva.github.io/Spirited-Scenery/"><img src="assets/icons/logobig.png" alt="Spirted Scenery" width="192"></a>
   <br>
   <br>
