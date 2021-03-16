@@ -2,13 +2,49 @@
   <a name="logo" href="https://justinwilliamsrva.github.io/Spirited-Scenery/"><img src="assets/icons/logobig.png" alt="Spirted Scenery" width="192"></a>
   <br>
   <br>
-  Spirited Scenery!
+  Spirited Scenery! - Have  pint and Look at Paint!
 </h1>
-[Link button](http://example.com/){: .btn }
+
+
+<div align="center"><a name="menu"></a>
+  <h4>
+    <a href="https://github.com/justinwilliamsrva/Spirited-Scenery#Team">
+      Overview
+    </a>
+    <span> | </span>
+    <a href="https://github.com/CCOSTAN/Home-AssistantConfig#devices">
+      Technologies
+    </a>
+    <span> | </span>
+    <a href="https://github.com/CCOSTAN/Home-AssistantConfig/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc">
+      Contributors
+    </a>
+    <span> | </span>
+    <a href="https://twitter.com/BearStoneHA">
+      User Story
+    </a>
+    <span> | </span>
+    <a href="https://www.vcloudinfo.com/click-here">
+      Acceptance Criteria
+    </a>
+    <span> | </span>
+    <a href="https://github.com/CCOSTAN/Home-AssistantConfig/tree/master/config">
+      Screenshots
+    </a>
+    <span> | </span>
+    <a href="https://github.com/CCOSTAN/Home-AssistantConfig#diagram">
+      Contact
+    </a>
+  </h4>
+</div>
+
+
+
+<button name="button">Click me</button>
 
 
 https://joshhallrva.github.io/Spirited-Scenery/
-## Team
+## <a name="Team></a> Team
 Josh Hall
 <br>
 Trevor McPherson
