@@ -44,7 +44,7 @@
 
 
 https://joshhallrva.github.io/Spirited-Scenery/
-## <a name="Team></a> Team
+## Team
 Josh Hall
 <br>
 Trevor McPherson
