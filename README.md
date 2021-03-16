@@ -5,7 +5,6 @@
   Spirited Scenery! - Have a pint and look at paint!
 </h1>
 
-
 <div align="center"><a name="menu"></a>
   <h4>
     <a href="https://github.com/justinwilliamsrva/Spirited-Scenery#Overview">
@@ -16,7 +15,7 @@
       Technologies
     </a>
     <span> | </span>
-    <a href="https://github.com/CCOSTAN/Home-AssistantConfig/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc">
+    <a href="https://github.com/justinwilliamsrva/Spirited-Scenery#Team">
       Contributors
     </a>
     <span> | </span>
@@ -38,11 +37,10 @@
   </h4>
 </div>
 
-
-
-
 ## Overview
+
 ### About
+
 <p>Explore your city's culture confidently with the Spirited Scenery App! If you're an art sophisticate, a critic, a bar crawler or all of the above; we've got you covered! Use our app to easily find local art pieces after lubricating yourself at nearby watering holes! Debate the intricacies and hidden meanings of the closest exhibit over a frothy cold beverage! In addition, the app considers your local weather conditions and offers advice on how to whether the user should venture on foot or wear a coat on their travels.</p>
 
 ### [Spirited Scenery Website](https://justinwilliamsrva.github.io/Spirited-Scenery)
@@ -50,24 +48,43 @@
 ### Client: University of Richmond Full Stack BootCamp Project
 
 ## Team
+
 <table align="center" border="1">
 
-<tr><td align="center">
+<tr><td align="center" colspan="1">
 
-[Josh Hall](https://amzn.to/2HJerU8)
-</td><td align="center">
+[Josh Hall](https://github.com/JoshHallRVA)
 
-[Trevor](https://amzn.to/2CijVG3)
-</td><td align="center">
+</td><td align="center" colspan="1">
 
-[Justin Williams](https://www.vCloudInfo.com/2018/01/going-green-to-save-some-green-in-2018.html)</td></tr>
-<tr><td align="center">
-* Hello
-</td><td align="center"><a href="https://www.amazon.com/gp/product/B00KH07WRC/ref=as_li_ss_il?ie=UTF8&psc=1&linkCode=li2&tag=vmw0a-20&linkId=52a63711f582d1ff83f4687137a6154b" target="_blank"><img border="0" src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00KH07WRC&Format=_SL110_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=vmw0a-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=vmw0a-20&l=li2&o=1&a=B00KH07WRC" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-</td><td align="center"><a href="https://www.vCloudInfo.com/2018/01/going-green-to-save-some-green-in-2018.html" target="_blank"><img border="0" src="https://lh3.googleusercontent.com/-V8NMHkiKFIY/Wkgpf7T-WDI/AAAAAAADihs/fp5yNzjrQ5sKgFkafXhllLYsD7yM3tGBgCHMYCw/image_thumb5?imgmax=200" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=vmw0a-20&l=li2&o=1&a=B01HDC236Q" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+[Trevor Mcpherson](https://github.com/mcphersonts)
+
+</td><td align="center" colspan="1">
+
+[Justin Williams](https://github.com/justinwilliamsrva)</td></tr>
+
+<tr><td colspan="1">
+<ul>
+          <li>Front End Design and Development</li>
+          <li>Animations and Click Events</li>
+          <li>Fonts</li>
+
+</ul>
+
+</td><td colspan="1">
+<ul>  <li>Connection of API Data to Front End</li>
+            <li>Presentation</li>
+            <li>Additional Styling</li>
+
+</ul>
+</td><td colspan="1">
+<ul>
+<li>Google Maps Api Setup and Search Functionality</li>
+<li>Map Icons and functionallity</li>
+<li>Weather API fetching and logic</li>
+
+</ul>
 </td></tr>
-
-
 
 </table>
 
@@ -100,6 +117,5 @@ THEN The CSS is repsonsive
 ## Screenshots
 
 ![image](https://user-images.githubusercontent.com/63308516/87229085-4e44ab80-c373-11ea-8b3f-2c25cd71b60a.png)
-
 
 ![image](https://user-images.githubusercontent.com/63308516/87229113-851ac180-c373-11ea-8ebc-f2c51d8c7e72.png)
