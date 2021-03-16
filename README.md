@@ -4,7 +4,7 @@
   <br>
   Spirited Scenery!
 </h1>
-<button>Try this</button>
+[Link button](http://example.com/){: .btn }
 
 
 https://joshhallrva.github.io/Spirited-Scenery/
