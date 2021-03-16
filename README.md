@@ -47,6 +47,9 @@
 
 ### Client: University of Richmond Full Stack BootCamp Project
 
+---
+<br>
+
 ## Technologies
 ### Main Technologies
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -58,7 +61,8 @@
 <p>Google Maps API
     <span> || </span>Open Weather API</p>
 
-
+---
+<br>
 
 
 
@@ -108,6 +112,8 @@
 
 </table>
 
+
+
 ## User Story
 
 ```
@@ -133,6 +139,8 @@ THEN a image drops down and I can click through more images
 WHEN I open the website on a table or phone
 THEN The CSS is repsonsive
 ```
+---
+<br>
 
 ## Screenshots
 
