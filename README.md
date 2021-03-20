@@ -40,7 +40,7 @@
 <h1 align="center" name="Overview"> Overview  <a href="https://github.com/justinwilliamsrva/Spirited-Scenery#logo"><img align="right" border="0" src="https://raw.githubusercontent.com/CCOSTAN/Home-AssistantConfig/master/config/www/custom_ui/floorplan/images/branding/up_arrow.png" width="22" ></a></h1>
 
 ### [Spirited Scenery Website](https://justinwilliamsrva.github.io/Spirited-Scenery)
- <a href="https://justinwilliamsrva.github.io/Spirited-Scenery"><h3 align="center"> Website </h3> </a
+ <a href="https://justinwilliamsrva.github.io/Spirited-Scenery"><h3 align="center"> Website </h3> 
 
 ### Client: University of Richmond Full Stack BootCamp Project
 ### About
