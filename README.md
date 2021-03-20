@@ -61,8 +61,8 @@
 ![image](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 ![image](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ### API's
-<p>Google Maps API
-    <span> || </span>Open Weather API</p>
+*Google Maps API
+*Open Weather API
 
 ---
 <br>
