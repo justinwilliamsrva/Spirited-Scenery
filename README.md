@@ -170,7 +170,7 @@ THEN The CSS is repsonsive
 ---
 <br>
 
-<h1 align="center" style="text-align: center;border-bottom:none" name="Screenshots" > Screen Shots  <a href="https://github.com/justinwilliamsrva/Spirited-Scenery#logo"><img align="right" border="0" src="https://raw.githubusercontent.com/CCOSTAN/Home-AssistantConfig/master/config/www/custom_ui/floorplan/images/branding/up_arrow.png" width="22" ></a></h1>
+<h1 align="center" style="text-align: center;border-bottom:none" name="Screenshots" > Screenshots  <a href="https://github.com/justinwilliamsrva/Spirited-Scenery#logo"><img align="right" border="0" src="https://raw.githubusercontent.com/CCOSTAN/Home-AssistantConfig/master/config/www/custom_ui/floorplan/images/branding/up_arrow.png" width="22" ></a></h1>
 
 ![image](https://user-images.githubusercontent.com/63308516/87229085-4e44ab80-c373-11ea-8b3f-2c25cd71b60a.png)
 
@@ -179,5 +179,5 @@ THEN The CSS is repsonsive
 ---
 <br>
 
-<h1 style="text-align: center;border-bottom:none" name="Contact" > Contact  <a href="https://github.com/justinwilliamsrva/Spirited-Scenery#logo"><img align="right" border="0" src="https://raw.githubusercontent.com/CCOSTAN/Home-AssistantConfig/master/config/www/custom_ui/floorplan/images/branding/up_arrow.png" width="22" ></a></h1>
+<h1 align="center" style="text-align: center;border-bottom:none" name="Contact" > Contact  <a href="https://github.com/justinwilliamsrva/Spirited-Scenery#logo"><img align="right" border="0" src="https://raw.githubusercontent.com/CCOSTAN/Home-AssistantConfig/master/config/www/custom_ui/floorplan/images/branding/up_arrow.png" width="22" ></a></h1>
 <p style="text-align: center">Contact to me  at <a href="www.github.com/justinwilliamsrva">www.github.com/justinwilliamsrva</a> or email me at <a href="mailto: justinwdev@gmail.com">justinwdev@gmail.com</a><p>
