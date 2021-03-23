@@ -46,7 +46,7 @@
 <br>
 
 
-<h1 align="center" border-bottom="0" style="border-bottom:none;margin:0" name="Overview" > Overview  <a href="https://github.com/justinwilliamsrva/Spirited-Scenery#logo"><img align="right" border="0" src="https://raw.githubusercontent.com/CCOSTAN/Home-AssistantConfig/master/config/www/custom_ui/floorplan/images/branding/up_arrow.png" width="22" ></a></h1>
+<h1 align="center" border-bottom="none" style="border-bottom:none;margin:0" name="Overview" > Overview  <a href="https://github.com/justinwilliamsrva/Spirited-Scenery#logo"><img align="right" border="0" src="https://raw.githubusercontent.com/CCOSTAN/Home-AssistantConfig/master/config/www/custom_ui/floorplan/images/branding/up_arrow.png" width="22" ></a></h1>
 
 
 
@@ -170,7 +170,7 @@ THEN The CSS is repsonsive
 ---
 <br>
 
-<h1 style="text-align: center;border-bottom:none" name="Screenshots" > Screen Shots  <a href="https://github.com/justinwilliamsrva/Spirited-Scenery#logo"><img align="right" border="0" src="https://raw.githubusercontent.com/CCOSTAN/Home-AssistantConfig/master/config/www/custom_ui/floorplan/images/branding/up_arrow.png" width="22" ></a></h1>
+<h1 align="center" style="text-align: center;border-bottom:none" name="Screenshots" > Screen Shots  <a href="https://github.com/justinwilliamsrva/Spirited-Scenery#logo"><img align="right" border="0" src="https://raw.githubusercontent.com/CCOSTAN/Home-AssistantConfig/master/config/www/custom_ui/floorplan/images/branding/up_arrow.png" width="22" ></a></h1>
 
 ![image](https://user-images.githubusercontent.com/63308516/87229085-4e44ab80-c373-11ea-8b3f-2c25cd71b60a.png)
 
