@@ -46,7 +46,7 @@
 <br>
 
 
-<h1 align="center" border="0" style="border-bottom:none;margin:0" name="Overview" > Overview  <a href="https://github.com/justinwilliamsrva/Spirited-Scenery#logo"><img align="right" border="0" src="https://raw.githubusercontent.com/CCOSTAN/Home-AssistantConfig/master/config/www/custom_ui/floorplan/images/branding/up_arrow.png" width="22" ></a></h1>
+<h1 align="center" border="none" style="border-bottom:none;margin:0" name="Overview" > Overview  <a href="https://github.com/justinwilliamsrva/Spirited-Scenery#logo"><img align="right" border="0" src="https://raw.githubusercontent.com/CCOSTAN/Home-AssistantConfig/master/config/www/custom_ui/floorplan/images/branding/up_arrow.png" width="22" ></a></h1>
 
 
 
