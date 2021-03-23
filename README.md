@@ -73,7 +73,7 @@ If you're an art sophisticate, critic, a bar crawler or all of the above, we've 
 
 <h1 align="center" name="Technologies" style="border-bottom:none;margin:0"> Technologies  <a href="https://github.com/justinwilliamsrva/Spirited-Scenery#logo"><img align="right" border="0" src="https://raw.githubusercontent.com/CCOSTAN/Home-AssistantConfig/master/config/www/custom_ui/floorplan/images/branding/up_arrow.png" width="22" ></a></h1>
 
-### Languages
+<h3> Languages</h3>
 
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![image](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
@@ -81,7 +81,7 @@ If you're an art sophisticate, critic, a bar crawler or all of the above, we've 
 ![image](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 ![image](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
-### API's
+<h3> API's</h3>
 
 - Google Maps API
 - Open Weather API
@@ -138,7 +138,7 @@ If you're an art sophisticate, critic, a bar crawler or all of the above, we've 
 
 <h1  align="center" style="border-bottom:none;margin:0" name="Assignment" > Assignment  <a href="https://github.com/justinwilliamsrva/Spirited-Scenery#logo"><img align="right" border="0" src="https://raw.githubusercontent.com/CCOSTAN/Home-AssistantConfig/master/config/www/custom_ui/floorplan/images/branding/up_arrow.png" width="22" ></a></h1>
 
-### User Story
+<h3> User Story</h3>
 
 ```
 AS A connoisseur of art and adult beverages
@@ -146,7 +146,7 @@ I WANT to find where to find new art to look at and places to enjoy a drink
 SO THAT I can further enjoy my free time in the area
 ```
 
-### Acceptance Criteria
+<h3> Acceptance Criteria</h3>
 
 ```
 GIVEN I am using a website to find local art and breweries
