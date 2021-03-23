@@ -100,7 +100,7 @@ If you're an art sophisticate, critic, a bar crawler or all of the above, we've 
 
 </td><td align="center" colspan="1" style="width:33%">
 
-[Trevor Mcpherson](https://github.com/mcphersonts)
+[Trevor McPherson](https://github.com/mcphersonts)
 
 </td><td align="center" colspan="1" style="width:33%">
 
