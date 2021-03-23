@@ -4,10 +4,8 @@
   <br>
   Spirited Scenery!
 </h1>
-<h3 align="center"style="border-bottom:none ">Have a pint and look at paint!</h3>
-<br>
 
- <a class="button" href="https://justinwilliamsrva.github.io/Spirited-Scenery"><h1  align="center" style="border-bottom:none;margin:0 ">View Website </h1></a>
+ <a class="button" href="https://justinwilliamsrva.github.io/Spirited-Scenery"><h3  align="center" p-style="border-bottom:none;margin:0 ">View Website </h3></a>
 
 <div align="center"><a name="menu"></a>
   <h4>
@@ -49,7 +47,7 @@
 <br>
 
 
-<h1 style="text-align: center;border-bottom:none;margin:0" name="Overview" > Overview  <a href="https://github.com/justinwilliamsrva/Spirited-Scenery#logo"><img align="right" border="0" src="https://raw.githubusercontent.com/CCOSTAN/Home-AssistantConfig/master/config/www/custom_ui/floorplan/images/branding/up_arrow.png" width="22" ></a></h1>
+<h1 align="center" border-bottom="0" style="border-bottom:none;margin:0" name="Overview" > Overview  <a href="https://github.com/justinwilliamsrva/Spirited-Scenery#logo"><img align="right" border="0" src="https://raw.githubusercontent.com/CCOSTAN/Home-AssistantConfig/master/config/www/custom_ui/floorplan/images/branding/up_arrow.png" width="22" ></a></h1>
 
 
 
