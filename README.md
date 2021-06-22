@@ -54,7 +54,7 @@ University of Richmond Full Stack BootCamp Project #1
 Explore your city's culture confidently with the Spirited Scenery App!
 Use our app to easily find local art museums and breweries!
 In addition, the app considers your local weather conditions
-and offers advice on how to whether you should venture on foot or wear a coat on your travels.
+and offers advice on whether you should venture on foot or wear a coat on your travels.
 If you're an art sophisticate, critic, a bar crawler or all of the above, we've got you covered!.
 ```
 
