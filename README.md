@@ -182,7 +182,7 @@ THEN The CSS is repsonsive
 
 <br>
 
-<h1 align="center" style="text-align: center;border-bottom:none" name="Development" > Development <a href="https://github.com/justinwilliamsrva/Spirited-Scenery#logo"><img align="right" border="0" src="https://raw.githubusercontent.com/CCOSTAN/Home-AssistantConfig/master/config/www/custom_ui/floorplan/images/branding/up_arrow.png" width="22" ></a></h1>
+<h1 align="center" style="text-align: center;border-bottom:none" name="Development" > Development: <a href="https://github.com/justinwilliamsrva/Spirited-Scenery#logo"><img align="right" border="0" src="https://raw.githubusercontent.com/CCOSTAN/Home-AssistantConfig/master/config/www/custom_ui/floorplan/images/branding/up_arrow.png" width="22" ></a></h1>
 
 <table align="center" border="1">
 
@@ -198,16 +198,15 @@ Needs
 
 <tr><td colspan="1">
 <ul>
-          <li>Front End Design and Development</li>
-          <li>Animations and Click Events</li>
-          <li>Fonts</li>
+          <li>Connection and configuring the Google Maps API</li>
+          <li>Implementing Animations</li>
+          <li>Learning Material-UI's syntax</li>
 
 </ul>
 
 </td><td colspan="1">
-<ul>  <li>Connection of API Data to Front End</li>
-            <li>Presentation</li>
-            <li>Additional Styling</li>
+<ul>  <li>Update the weather algorithm to be more accurate</li>
+         
 
 </ul>
 </td></tr>
