@@ -29,6 +29,10 @@
       Screenshots
     </a>
     <span> | </span>
+     <a href="https://github.com/justinwilliamsrva/Spirited-Scenery#Status">
+     Status
+    </a>
+    <span> | </span>
     <a href="https://github.com/justinwilliamsrva/Spirited-Scenery#Contact">
       Contact
     </a>
@@ -163,6 +167,19 @@ THEN a image drops down and I can click through more images
 WHEN I open the website on a table or phone
 THEN The CSS is repsonsive
 ```
+
+---
+
+<br>
+
+<h1 align="center" style="text-align: center;border-bottom:none" name="Status" > Screenshots <a href="https://github.com/justinwilliamsrva/Spirited-Scenery#logo"><img align="right" border="0" src="https://raw.githubusercontent.com/CCOSTAN/Home-AssistantConfig/master/config/www/custom_ui/floorplan/images/branding/up_arrow.png" width="22" ></a></h1>
+
+<h2 align="center" style="text-align: center">Development has stopped</h2>
+
+<h2 align="center" style="text-align: center;border-bottom:none">Needs</h2>
+<ul>
+          <li>Update weather algorithm</li>
+</ul>
 
 ---
 
