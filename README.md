@@ -12,6 +12,10 @@
     <a href="https://github.com/justinwilliamsrva/Spirited-Scenery#Overview">
       Overview
     </a>
+      <span> | </span>
+    <a href="https://github.com/justinwilliamsrva/Spirited-Scenery#Screenshots">
+      Screenshots
+    </a>
     <span> | </span>
     <a href="https://github.com/justinwilliamsrva/Spirited-Scenery#Technologies">
       Technologies
@@ -23,10 +27,6 @@
     <span> | </span>
     <a href="https://github.com/justinwilliamsrva/Spirited-Scenery#Assignment">
       Assignment
-    </a>
-     <span> | </span>
-    <a href="https://github.com/justinwilliamsrva/Spirited-Scenery#Screenshots">
-      Screenshots
     </a>
     <span> | </span>
      <a href="https://github.com/justinwilliamsrva/Spirited-Scenery#Status">
@@ -70,6 +70,16 @@ If you're an art sophisticate, critic, a bar crawler or all of the above, we've 
 - Receive advice on how to travel comfortably based on the current weather
 - Scroll through a gallery of popular murals
 ```
+
+---
+
+<br>
+
+<h1 align="center" style="text-align: center;border-bottom:none" name="Screenshots" > Screenshots  <a href="https://github.com/justinwilliamsrva/Spirited-Scenery#logo"><img align="right" border="0" src="https://raw.githubusercontent.com/CCOSTAN/Home-AssistantConfig/master/config/www/custom_ui/floorplan/images/branding/up_arrow.png" width="22" ></a></h1>
+
+![image](https://user-images.githubusercontent.com/63308516/87229085-4e44ab80-c373-11ea-8b3f-2c25cd71b60a.png)
+
+![image](https://user-images.githubusercontent.com/63308516/87229113-851ac180-c373-11ea-8ebc-f2c51d8c7e72.png)
 
 ---
 
@@ -177,16 +187,6 @@ THEN The CSS is repsonsive
 <ul>
           <li>Update weather algorithm</li>
 </ul>
-
----
-
-<br>
-
-<h1 align="center" style="text-align: center;border-bottom:none" name="Screenshots" > Screenshots  <a href="https://github.com/justinwilliamsrva/Spirited-Scenery#logo"><img align="right" border="0" src="https://raw.githubusercontent.com/CCOSTAN/Home-AssistantConfig/master/config/www/custom_ui/floorplan/images/branding/up_arrow.png" width="22" ></a></h1>
-
-![image](https://user-images.githubusercontent.com/63308516/87229085-4e44ab80-c373-11ea-8b3f-2c25cd71b60a.png)
-
-![image](https://user-images.githubusercontent.com/63308516/87229113-851ac180-c373-11ea-8ebc-f2c51d8c7e72.png)
 
 ---
 
