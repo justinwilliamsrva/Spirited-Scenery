@@ -218,4 +218,4 @@ Needs
 <br>
 
 <h1 align="center" style="text-align: center;border-bottom:none" name="Contact" >Contact <a href="https://github.com/justinwilliamsrva/Spirited-Scenery#logo"><img align="right" border="0" src="https://raw.githubusercontent.com/CCOSTAN/Home-AssistantConfig/master/config/www/custom_ui/floorplan/images/branding/up_arrow.png" width="22" ></a></h1>
-<p align="center" style="text-align: center">Contact to me  at <a href="www.github.com/justinwilliamsrva">www.github.com/justinwilliamsrva</a> or email me at <a href="mailto: justinwdev@gmail.com">justinwdev@gmail.com</a><p>
+<p align="center" style="text-align: center">Contact to me through <a href="www.justinwdev.com">my website</a> or email me at <a href="mailto: justinwdev@gmail.com">justinwdev@gmail.com</a><p>
