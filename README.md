@@ -29,8 +29,8 @@
       Assignment
     </a>
     <span> | </span>
-     <a href="https://github.com/justinwilliamsrva/Spirited-Scenery#Status">
-     Needs
+     <a href="https://github.com/justinwilliamsrva/Spirited-Scenery#Development">
+     Development
     </a>
     <span> | </span>
     <a href="https://github.com/justinwilliamsrva/Spirited-Scenery#Contact">
