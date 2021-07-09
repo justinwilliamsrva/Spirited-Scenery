@@ -192,7 +192,7 @@ Challenges
 
 </td><td align="center" colspan="1" style="width:50%">
 
-Needs
+Future Features
 
 </td></tr>
 
