@@ -198,7 +198,7 @@ Future Features
 
 <tr><td colspan="1">
 <ul>
-          <li>Connection and configuring the Google Maps API</li>
+          <li>Connecting and configuring the Google Maps API</li>
           <li>Implementing Animations</li>
           <li>Learning Material-UI's syntax</li>
 
